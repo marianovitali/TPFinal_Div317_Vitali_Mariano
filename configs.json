@@ -1,0 +1,16 @@
+{
+    "nivel_1": {
+        "ruta_mazo": "assets/img/decks",
+        "mazo_enemigo": "red_deck_expansion_1",
+        "mazo_player": "blue_deck_expansion_1",
+        "coordenada_mazo_enemigo": [0,0],
+        "coordenada_mazo_player": [0,0],
+        "cantidad_cartas_jugadores": 20
+    },
+    "nivel_2": {
+        "ruta_mazo": "",
+        "coordenada_mazo_enemigo": [0,0],
+        "coordenada_mazo_player": [0,0],
+        "cantidad_cartas_jugadores": 20
+    }
+}
